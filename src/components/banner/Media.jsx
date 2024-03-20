@@ -33,7 +33,7 @@ const Media = () => {
       </h2>
       <div className="flex gap-4">
         <span className="bannerIcon">
-        <a href='https://drive.google.com/file/d/1Yl7CDaICaT_vr68D6ao1tr2VIAYvP_ZH/view?usp=drive_link' target='_blank'><FaFileAlt /></a>
+        <a href='https://drive.google.com/file/d/1rUdTCUDbD_0JrCNsFiNa-tnzd-O02J8P/view?usp=drive_link' target='_blank'><FaFileAlt /></a>
         </span>
       </div>
     </div>
