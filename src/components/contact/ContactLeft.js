@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { MdEmail, MdPhone } from "react-icons/md";
-import { contactImg } from "../../assets/images/contact/contactImg.png";
+import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
   return (
